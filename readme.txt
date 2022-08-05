@@ -8,7 +8,7 @@
 Team
 -----------------------------------------------------------------------
 
-Ravi Chandra Duvvuri (CS21MTECH11001)
+Arun Kant Dubey (CS20MTECH12008)
 Pratik Abhijeet Bendre (CS21MTECH12014)
 Kishan Nayanbhai Bhinde (CS21MTECH11016)
 
